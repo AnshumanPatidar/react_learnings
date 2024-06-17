@@ -1,0 +1,13 @@
+.my-item{
+  background-color: yellow;
+  width: 1200px;
+}
+
+.my-span{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7de5bd;
+  height: 60px;
+  
+}

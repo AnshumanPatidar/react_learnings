@@ -1,0 +1,19 @@
+
+
+input {
+  width: 100%;
+}
+
+.my-row {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.my-col {
+  text-align: left;
+  width: 70px;
+}
+
+.my-button {
+  width: 71px;
+}
